@@ -5,9 +5,9 @@
  ## Git and GitHub Repositories
  
  Git is a version control system that allows developers to keep track of changes made to their code over time. GitHub is a web-based platform that allows developers to store and manage their Git repositories.
- Hope you have installed git and acount in both both git and github.
- for download git refer [this]([https://git-scm.com/downloads])
- To get started, you will need to create a new repository on GitHub. Once you have created your repository, you can clone it to your local machine using the following command:
+* Hope you have installed git and acount in both both git and github.
+* for download git refer [this]([https://git-scm.com/downloads])
+* To get started, you will need to create a new repository on GitHub. Once you have created your repository, you can clone it to your local machine using the following command:
  
  
  ```Git clone from repository
@@ -30,7 +30,7 @@ Please, refer to [git documentation]([https://git-scm.com/docs]) for more inform
 ## Setup.py File in Python
 
 The setup.py file is used to specify the details of your Python project, such as its name, version, and dependencies. It is used by tools such as pip to install your project and its dependencies.
-* crete a python file and add code acording to above repo
+* crete a python file and add code according to above repo.
 
 ## requirements.txt
 it contains all required libraries  and a '-e .' to automaticaly trigger setup.py
