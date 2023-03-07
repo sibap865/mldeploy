@@ -30,8 +30,8 @@ Please, refer to [git documentation]([https://git-scm.com/docs]) for more inform
 ## Setup.py File in Python
 
 The setup.py file is used to specify the details of your Python project, such as its name, version, and dependencies. It is used by tools such as pip to install your project and its dependencies.
-crete a python file and add code acording to above repo
+* crete a python file and add code acording to above repo
 
 ## requirements.txt
 it contains all required libraries  and a '-e .' to automaticaly trigger setup.py
-after making all changes add and commit your changes
+after making all changes add and commit your changes.
