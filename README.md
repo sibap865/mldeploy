@@ -19,8 +19,8 @@ git add .
 git commit -m "commit message"
 git push origin main
 ```
-add .gitignore file  for not pushing unusefull things in github
-due to change in code from your local directoy use this in your terminal
+-Add .gitignore file  for not pushing unusefull things in github.
+-Due to change in code from your local directoy use this in your terminal
 ```
 git pull
 ```
